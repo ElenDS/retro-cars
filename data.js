@@ -7,7 +7,7 @@ export const cars = {
       production: '1934–1940',
       engine: '3257 cc',
       topSpeed: '95 mph',
-      txt: 'The Type 57S Atlantic body featured flowing coupé lines with a pronounced dorsal seam running from the front to the back end of the vehicle. It was based on the 1935 Aérolithe concept car designed by Jean Bugatti which was built on a prototype chassis, more specifically, a standard Type 57 chassis shortened to what would eventually become the Type 57S chassis. Like the Type 59 Grand Prix car, the Aérolithe used Elektron composite for its body panels, known for being a very lightweight and durable material, but also for being extremely flammable when exposed to high temperatures. Therefore, being unable to weld the body panels, the engineers riveted them externally, a technique frequently used in the aviation industry, thus creating the signature seam.',
+      txt: 'The Type 57S Atlantic body featured flowing coupé lines with a pronounced dorsal seam running from the front to the back end of the vehicle. It was based on the 1935 Aérolithe concept car designed by Jean Bugatti which was built on a prototype chassis, more specifically, a standard Type 57 chassis shortened to what would eventually become the Type 57S chassis.',
     },
     cadillac: {
       title: 'Cadillac V-16',
@@ -54,7 +54,7 @@ export const cars = {
       production: '1934–1940',
       engine: '3257 см3',
       topSpeed: '192 км/ч',
-      txt: `Існує думка, що Atlantic є першим суперкаром. Усього було випущено 3 машини Bugatti Type 57SC Atlantic. Ця модифікація Type 57S (або Type 57SC) була заснована на концепт-карі Aerolithe 1935 року, показаному на Паризькому автосалоні. Розробкою Atlantic займався особисто Жан Бугатті. Кузов був зроблений зі сплаву магнію та алюмінію, званого «електрон», який був дуже легким та водночас вогненебезпечним, що не дозволяло з'єднувати деталі автомобіля методом зварювання. Деталі кріпилися клепками, які, за ідеєю Жана Бугатті, вивели назовні.`,
+      txt: `Існує думка, що Atlantic є першим суперкаром. Усього було випущено 3 машини Bugatti Type 57SC Atlantic. Ця модифікація Type 57S (або Type 57SC) була заснована на концепт-карі Aerolithe 1935 року, показаному на Паризькому автосалоні. Розробкою Atlantic займався особисто Жан Бугатті. Кузов був зроблений зі сплаву, який був дуже легким та водночас вогненебезпечним, що не дозволяло з'єднувати деталі автомобіля методом зварювання. Деталі кріпилися клепками, які, за ідеєю Жана Бугатті, вивели назовні.`,
     },
     cadillac: {
       title: 'Cadillac V-16',
