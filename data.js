@@ -16,7 +16,7 @@ export const cars = {
       production: '1930–1940',
       engine: '7410 cc',
       topSpeed: '100 mph',
-      txt: `The Cadillac V-16 (also known as the Cadillac Sixteen) was Cadillac's top-of-the-line model from its January 1930 launch until 1940. The V16 powered car was a first in the United States, both extremely expensive and exclusive, with every chassis being custom-finished to order. Only 4,076 were constructed in its 11-year run, with the majority built in its debut year before the Great Depression took strong hold. The onset of World War II reduced the sales, resulting in its demise.`,
+      txt: `The Cadillac V-16 (also known as the Cadillac Sixteen) was Cadillac's top-of-the-line model from its January 1930 launch until 1940. The V16 powered car was a first in the United States, both extremely expensive and exclusive, with every chassis being custom-finished to order. Only 4,076 were constructed in its 11-year run, with the majority built in its debut year before the Great Depression took strong hold.`,
     },
     ferrari: {
       title: 'Ferrari 250 GTO',
@@ -43,7 +43,7 @@ export const cars = {
       production: '1955—1963',
       engine: '2996 cc',
       topSpeed: '163 mph',
-      txt: `The Mercedes-Benz 300 SL (chassis code W 198) is a two-seat sports car which was produced by Mercedes-Benz as a gullwinged coupe (1954–1957) and roadster (1957–1963). It was based on the company's 1952 racer, the W194, with mechanical direct fuel injection which boosted power almost 50 percent in its three-liter overhead camshaft straight-six engine. Capable of reaching a top speed of up to 263 km/h (163 mph), it was a sports car racing champion and the fastest production car of its time.`,
+      txt: `The Mercedes-Benz 300 SL is a two-seat sports car which was produced by Mercedes-Benz as a gullwinged coupe and roadster. It was based on the company's 1952 racer, the W194, with mechanical direct fuel injection which boosted power almost 50 percent in its three-liter overhead camshaft straight-six engine. Capable of reaching a top speed of up to 263 km/h (163 mph), it was a sports car racing champion and the fastest production car of its time.`,
     },
   },
   ua: {
@@ -54,7 +54,7 @@ export const cars = {
       production: '1934–1940',
       engine: '3257 см3',
       topSpeed: '192 км/ч',
-      txt: `Існує думка, що Atlantic є першим суперкаром. Усього було випущено 3 машини Bugatti Type 57SC Atlantic. Ця модифікація Type 57S (або Type 57SC) була заснована на концепт-карі Aerolithe 1935 року, показаному на Паризькому автосалоні. Розробкою Atlantic займався особисто Жан Бугатті. Кузов був зроблений зі сплаву, який був дуже легким та водночас вогненебезпечним, що не дозволяло з'єднувати деталі автомобіля методом зварювання. Деталі кріпилися клепками, які, за ідеєю Жана Бугатті, вивели назовні.`,
+      txt: `Існує думка, що Atlantic є першим суперкаром. Усього було випущено 3 машини Bugatti Type 57SC Atlantic. Ця модифікація Type 57S була заснована на концепт-карі Aerolithe 1935 року. Розробкою Atlantic займався особисто Жан Бугатті. Кузов був зроблений зі сплаву, який був дуже легким та водночас вогненебезпечним, що не дозволяло з'єднувати деталі автомобіля методом зварювання. Деталі кріпилися клепками, які, за ідеєю Жана Бугатті, вивели назовні.`,
     },
     cadillac: {
       title: 'Cadillac V-16',
@@ -72,7 +72,7 @@ export const cars = {
       production: '1962–1964',
       engine: '2953 см3',
       topSpeed: '280 км/ч',
-      txt: `Автомобіль класу суперкар, який виробляла компанія Ferrari з 1962 по 1964 рік для участі в гонках ФІА категорії GT3. Перша частина назви позначає об'єм кожного циліндра в кубічних сантиметрах, а друга частина - абревіатура від "Gran Turismo Omologata", що в перекладі з італійської означає "Автомобіль, допущений до перегонів". Новий GTO коштував 18 000 доларів (у США), і покупця повинен був схвалити особисто Енцо Феррарі та його представник у Північній Америці, Луїджі Чинетті.`,
+      txt: `Автомобіль класу суперкар, який виробляла компанія Ferrari з 1962 по 1964 рік для участі в гонках ФІА категорії GT3. Перша частина назви позначає об'єм кожного циліндра в кубічних сантиметрах, а друга частина - абревіатура від "Gran Turismo Omologata". Новий GTO коштував 18 000 доларів (у США), і покупця повинен був схвалити особисто Енцо Феррарі та його представник у Північній Америці, Луїджі Чинетті.`,
     },
     jaguar: {
       title: 'Jaguar E-Type',
