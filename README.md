@@ -1,6 +1,6 @@
 # Retro Cars
 
-Hello! My name is Lena Dodon. I would like to present my Retro Cars project to you, I will be glad for your feedback and suggestions for improvement.
+Hello! My name is Lena Dodon and I would like to present my Retro Cars project. I hope you will like my work and I will be glad to see your feedback and suggestions for improvement.
 
 ## Link
 
