@@ -17,5 +17,3 @@ https://elends.github.io/retro-cars/
 ## Author
 
 - Lena Dodon - https://github.com/ElenDS
-
-
